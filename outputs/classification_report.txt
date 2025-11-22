@@ -1,0 +1,14 @@
+                   precision    recall  f1-score   support
+
+             Bare       0.00      0.00      0.00         1
+         Built-up       0.37      0.29      0.33       906
+         Cropland       0.74      0.69      0.71      2406
+            Grass       0.01      0.05      0.02        65
+HerbaceousWetland       0.00      0.00      0.00         1
+            Shrub       0.08      0.22      0.12       118
+             Tree       0.14      0.11      0.12       187
+            Water       0.00      0.00      0.00         3
+
+         accuracy                           0.53      3687
+        macro avg       0.17      0.17      0.16      3687
+     weighted avg       0.59      0.53      0.56      3687

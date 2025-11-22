@@ -1,0 +1,10 @@
+label_idx,label_name,present_in_test,train_count
+0,Bare,1,2
+1,Built-up,1,1358
+2,Cropland,1,3608
+3,Grass,1,98
+4,HerbaceousWetland,1,1
+5,Shrub,1,178
+6,Tree,1,280
+7,Water,1,4
+8,uncertain,0,0

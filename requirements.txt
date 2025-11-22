@@ -1,0 +1,15 @@
+geopandas
+rasterio
+numpy
+pandas
+matplotlib
+scipy
+shapely
+pyproj
+torch
+torchvision
+torchmetrics
+scikit-learn
+Pillow
+tqdm
+geemap
