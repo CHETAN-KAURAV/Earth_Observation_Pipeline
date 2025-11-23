@@ -1,4 +1,4 @@
-# **Scenario 1 – Land Cover Classification Pipeline**
+# **Scenario 1 – Earth Observation Pipeline**
 
 ### This repository contains my complete solution to Scenario 1 of the 6-month AI/ML Internship Selection Task–2025.
 The project covers:
