@@ -1,6 +1,6 @@
 # **Scenario 1 – Earth Observation Pipeline**
 
-### This repository contains my complete solution to Scenario 1 of the 6-month AI/ML Internship Selection Task–2025.
+### This repository contains my complete project of earth observation.
 The project covers:
 
 Q1: Geospatial preprocessing (grid creation, mapping, filtering)
@@ -35,9 +35,6 @@ Scenario1_Project/
 │   └── delhi_ncr_region_utm44n.cpg
 │
 │
-├── report/                 # I have provided report in both .pdf and .docx formats
-│   ├── Chetan_Kaurav_6_month_intern_selection_task_scenario_1_report.docx
-│   └── Chetan_Kaurav_6_month_intern_selection_task_scenario_1_report.pdf
 │
 │
 ├── outputs/                # Final results (all deliverables included)
